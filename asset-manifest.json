@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.js": "/url-shortening-api-landing-page/static/js/main.9108a3c8.chunk.js",
+    "main.js.map": "/url-shortening-api-landing-page/static/js/main.9108a3c8.chunk.js.map",
+    "runtime-main.js": "/url-shortening-api-landing-page/static/js/runtime-main.335e7e03.js",
+    "runtime-main.js.map": "/url-shortening-api-landing-page/static/js/runtime-main.335e7e03.js.map",
+    "static/js/2.b5a82142.chunk.js": "/url-shortening-api-landing-page/static/js/2.b5a82142.chunk.js",
+    "static/js/2.b5a82142.chunk.js.map": "/url-shortening-api-landing-page/static/js/2.b5a82142.chunk.js.map",
+    "index.html": "/url-shortening-api-landing-page/index.html",
+    "static/js/2.b5a82142.chunk.js.LICENSE.txt": "/url-shortening-api-landing-page/static/js/2.b5a82142.chunk.js.LICENSE.txt",
+    "static/media/bg-boost-desktop.772154c9.svg": "/url-shortening-api-landing-page/static/media/bg-boost-desktop.772154c9.svg",
+    "static/media/bg-boost-mobile.4b04bd89.svg": "/url-shortening-api-landing-page/static/media/bg-boost-mobile.4b04bd89.svg",
+    "static/media/bg-shorten-desktop.0d9742f4.svg": "/url-shortening-api-landing-page/static/media/bg-shorten-desktop.0d9742f4.svg",
+    "static/media/bg-shorten-mobile.41c34b33.svg": "/url-shortening-api-landing-page/static/media/bg-shorten-mobile.41c34b33.svg",
+    "static/media/icon-brand-recognition.c349d3b6.svg": "/url-shortening-api-landing-page/static/media/icon-brand-recognition.c349d3b6.svg",
+    "static/media/icon-detailed-records.265c8aea.svg": "/url-shortening-api-landing-page/static/media/icon-detailed-records.265c8aea.svg",
+    "static/media/icon-facebook.229c75a0.svg": "/url-shortening-api-landing-page/static/media/icon-facebook.229c75a0.svg",
+    "static/media/icon-fully-customizable.a1532a74.svg": "/url-shortening-api-landing-page/static/media/icon-fully-customizable.a1532a74.svg",
+    "static/media/icon-hamburger.8dcf47cc.svg": "/url-shortening-api-landing-page/static/media/icon-hamburger.8dcf47cc.svg",
+    "static/media/icon-instagram.df587328.svg": "/url-shortening-api-landing-page/static/media/icon-instagram.df587328.svg",
+    "static/media/icon-pinterest.a2d25ab4.svg": "/url-shortening-api-landing-page/static/media/icon-pinterest.a2d25ab4.svg",
+    "static/media/icon-twitter.1d5c6d5e.svg": "/url-shortening-api-landing-page/static/media/icon-twitter.1d5c6d5e.svg",
+    "static/media/illustration-working.c9b5ef54.svg": "/url-shortening-api-landing-page/static/media/illustration-working.c9b5ef54.svg",
+    "static/media/logo.83464303.svg": "/url-shortening-api-landing-page/static/media/logo.83464303.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.335e7e03.js",
+    "static/js/2.b5a82142.chunk.js",
+    "static/js/main.9108a3c8.chunk.js"
+  ]
+}
